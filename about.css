@@ -1,0 +1,81 @@
+body{
+    background-image: url(/photos/container%202.jpg);
+}
+h1{
+    font-size:50px;
+    border: 10px;
+    border-style: none;
+    font-family: cursive;
+}
+.borderArtical{
+    border: 10px;
+    border-style: groove;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+header{
+    height: 200px;
+     }
+
+section {
+    width: 100%;
+    font-family: cursive;
+    color: darkgreen
+   
+}
+h3{
+   
+    text-decoration: underline;
+    color: #B20514;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.right{
+    float: right;
+}
+
+
+img{
+    float:left;
+}
+
+video{
+    margin-left: 0px;
+}
+h2{
+    float: right;
+    font-size: 50px;
+    font-family: cursive;
+    color: mediumvioletred
+}
+/*Navigation menu*/
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #B20514;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: darkgrey;
+  color: white;
+}

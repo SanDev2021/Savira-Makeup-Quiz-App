@@ -1,0 +1,176 @@
+[
+  {
+    "question": " Which of these products will help even out your skin texture?",
+    "choice1": "Bronzer",
+    "choice2": "Primer",
+    "choice3": "Illuminating Powder",
+    "choice4": "Concealer",
+    "answer": 2
+  },
+    {
+        "question": "How often should you replace your mascara?",
+    "choice1": "Every month",
+    "choice2": "Every 3 months",
+    "choice3": "Every 6 months",
+    "choice4": "Every 12 months",
+    "answer": 2
+    },
+    {
+        "question": "What is banana powder used for?",
+    "choice1": "Concealing flaws",
+    "choice2": "Creting Shadow",
+    "choice3": "Setting makeup/conceler",
+    "choice4": "Adding shimmer",
+    "answer": 3
+    },
+     {
+          "question": "Which actress owns The Honest Company makeup range?",
+        "choice1": "Gwen Stefani",
+        "choice2": "Gwneth Paltrow",
+        "choice3": "jessica Alba",
+        "choice4": "Julia Roberts",
+        "answer": 3
+   },
+   
+   {
+      "question": "What lipstick shades look best to hide discolored teeth?",
+    "choice1": "Blue-based red and pink shades",
+    "choice2": "Coral reds and bright oranges",
+    "choice3": "Neutral and brown shades.",
+    "choice4": "Deep wines and burgundy tones.",     
+    "answer": 1
+  },
+       {
+      "question": "What does bronzer do??",
+           "choice1": "Makes you look tanned",
+           "choice2": "Creates shadows",
+           "choice3": "Gives you a healthy glow",
+           "choice4": "Conceals imperfections",
+      "answer": 3
+},
+   {
+          "question": "What should you use to remove colorstay lipstick?",
+       "choice1": "Plain soap",
+       "choice2": "Makeup remover or coconut oil",
+       "choice3": "Rub with cotton wool and water",
+       "choice4": "Vinegar",
+       "answer": 4
+  },
+    {
+          "question": "What does the CC mean in CC creams?",
+          "choice1": "Contouring Cream",
+         "choice2": "Color Correcting",
+        "choice3": "Color Changing",
+        "choice4": "Contour Correcting",
+       "answer": 2
+  },
+   
+  {
+         "question": "Who is this Youtube beauty vlogger?",
+         "choice1": "Lisa Eldridge",
+         "choice2": "Meredith Foster",
+         "choice3": "Nicole Guerriero",
+         "choice4": "Michelle Phan",
+        "answer": 1
+ },
+       {
+     "question": "Where is the best place to test foundation?",
+       "choice1": "Jawline",
+       "choice2": "Forehead",
+      "choice3": "Wrist",
+     "choice4": "Neck",
+   "answer": 1
+},
+   {
+       "question": "Which of these is used to define lashes?",
+         "choice1": "Mascara",
+         "choice2": "Eyeshadow", 
+         "choice3": "Lipstick",
+         "choice4": "Highlight",
+         "answer":1
+   },
+    {
+         "question": "Which of these makeup brands is most expensive?",
+         "choice1": "Rimmel",
+         "choice2": "Nyx",
+         "choice3": "MAC",
+         "choice4": "Wet n Wild",
+         "answer": 1
+    },
+   
+    {
+         "question": "Vegan makeup contains no ",
+         "choice1": "Chemicals",
+        "choice2": "Parabens",
+        "choice3": "Animal products",
+        "choice4": "Sugar",
+        "answer": 3
+   },
+        {
+       "question": "Matte makeup does not have what?",
+        "choice1": "Shine",
+        "choice2": "Color",
+        "choice3": "Pigment",
+        "choice4": "Fallout",
+        "answer": 1
+},
+    {
+          "question": "Which of these types of foundation is often best for severely dry skin?",
+        "choice1": "Matte",
+        "choice2": "Satin Matte",
+        "choice3": "Dewy",
+        "choice4": "Sheer",
+        "answer": 3
+  },
+    {
+         "question": "What can you mix into your foundation for a radiant glowly look?",
+        "choice1": "Concealer",
+        "choice2": "Liquid Illuminator",
+        "choice3": "Eyeshadow",
+        "choice4": "Glitter",
+        "answer": 1
+   },
+    
+   {
+         "question": "Which of these makeup steps should be last?",
+        "choice1": "Eyeshadow",
+        "choice2": "Bronzer",
+        "choice3": "Setting Spray",
+        "choice4": "Lip liner",
+        "answer": 3
+   },
+        {
+       "question": "Ultra matte makeup is best for",
+         "choice1": "Photos",
+         "choice2": "Dry skin",
+         "choice3": "Sun protection",
+         "choice4": "Mature women",
+         "answer": 1
+},
+    {
+         "question": "When putting on makeup, which of these should go on first?",
+        "choice1": "Powder",
+        "choice2": "Primer",
+        "choice3": "Lipstick",
+        "choice4": "False lashes",
+     "answer": 2
+   },
+    {
+         "question": "What type of brow is currently on trend?",
+        "choice1": "Full and well-groomed",
+        "choice2": "Thin and penciled in",
+        "choice3": "Bleached",
+        "choice4": "Straight",
+        "answer": 1
+   },
+    
+    {
+          "question": "Which of these brands is a luxury brand?",
+        "choice1": "ELF",
+         "choice2": "Nyx",
+         "choice3": "Revlon",
+        "choice4": "Peter Thomas Roth",
+        "answer": 4
+   }
+    
+]

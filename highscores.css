@@ -1,0 +1,27 @@
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin: 20px;
+    
+}
+
+.high-score {
+    margin: 10px;
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+  border: 2px solid black;
+    padding: 10px
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+    color: orangered;
+}
+table, th, td {
+    margin: 19px;
+  border: 10px solid black;
+    padding: 2px;
+    
+    
+    
+}
